@@ -1,4 +1,4 @@
-//Lógica do jogo: O jogador vai mover, através do teclado, o personagem para o resultado correto da operação que aprecer.
+sa//Lógica do jogo: O jogador precisa escolher a opção que representa o resultado da soma apresentada.
 //VARIÁVEIS
 var tela=1
 var largura=200
